@@ -1,14 +1,14 @@
-## Data Science at UCSB
+## [Data Science at UCSB](http://datascience.pstat.ucsb.edu/)
 
 ### Fall Quarter, 2016
 
 ### Introduction to Python for Data Science
 
-### Instructor: Jason Freeberg
+### Instructor: [Jason Freeberg](https://www.linkedin.com/in/jfreeberg)
 
 This quarter's tutorials will be the *best* yet! As you can see I've made a complete syllabus, a Jupyter notebook for each tutorial, and laid the [foundation](https://github.com/JasonFreeberg/StreamTweets) for your own personal projects. As the title says, we will learn the basics of Python for data science and data analysis. That includes OOP, the NumPy, pandas, and scikitlearn modules, feature engineering, and an introduction to machine learning. 
 
-Every class will use a Jupyter notebook to show examples and illustrate new syntax. Then I will turn it over to you guys to finish on the exercises at the end of the notebook. The labs and corresponding notebooks are designed to *compliment* what you will learn from DataCamp.com. To keep things moving each week, I will assume that you have finished last week's homework and are ready for the next set of material. **Now you might have some questions...**
+Every class will use a Jupyter notebook to show examples and illustrate new syntax. Then I will turn it over to you guys to finish on the exercises at the end of the notebook. The labs and notebooks are designed to *compliment* what you will learn online from DataCamp.com. To keep things moving each week, I will assume that you have finished last week's homework and are ready for the next set of material. **Now you might have some questions...**
 
 *Why should I learn Python?* Well...
 - It's a [popular](http://spectrum.ieee.org/static/interactive-the-top-programming-languages-2016) language.
@@ -16,7 +16,7 @@ Every class will use a Jupyter notebook to show examples and illustrate new synt
 - You can use it to access [Spark's API](http://spark.apache.org/). 
     - Spark is a distributed computating framework built with support for SQL, streaming, and machine learning. 
 
-*Are you qualified to teach this?* [Yes.](https://www.linkedin.com/in/jfreeberg)
+*Are you qualified to teach this?* [Yes.](https://www.linkedin.com/in/jfreeberg#experience)
  - While interning at Impact Radius, I wrote PySpark code to analyse massive data sets (PySpark = Python + Spark).
  - I like to write Python code in my free time. We'll use one of my Python projects as the foundation for your own.
  - Python is **not** a hard language to learn... or teach!
@@ -90,4 +90,3 @@ Every class will use a Jupyter notebook to show examples and illustrate new synt
     - Word cloud, sentiment analysis, geo-tag visualizations, network visualizations
 - Or, find and plan your own project
 	- Use meeting time to get help and input
-
