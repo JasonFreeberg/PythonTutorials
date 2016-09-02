@@ -6,7 +6,9 @@
 
 ### Instructor: Jason Freeberg
 
-This quarter's tutorials will be the *best* yet! As you can see I've made a complete syllabus, a Jupyter notebook for each tutorial, and laid the [foundation](https://github.com/JasonFreeberg/StreamTweets) for your own personal projects. As the title says, we will learn the basics of Python for data science and data analysis. That includes OOP, the NumPy, pandas, and scikitlearn modules, feature engineering, and an introduction to machine learning. **Now you might have some questions...**
+This quarter's tutorials will be the *best* yet! As you can see I've made a complete syllabus, a Jupyter notebook for each tutorial, and laid the [foundation](https://github.com/JasonFreeberg/StreamTweets) for your own personal projects. As the title says, we will learn the basics of Python for data science and data analysis. That includes OOP, the NumPy, pandas, and scikitlearn modules, feature engineering, and an introduction to machine learning. 
+
+Every class will use a Jupyter notebook to show examples and illustrate new syntax. Then I will turn it over to you guys to finish on the exercises at the end of the notebook. The labs and corresponding notebooks are designed to *compliment* what you will learn from DataCamp.com. To keep things moving each week, I will assume that you have finished last week's homework and are ready for the next set of material. **Now you might have some questions...**
 
 *Why should I learn Python?* Well...
 - It's a [popular](http://spectrum.ieee.org/static/interactive-the-top-programming-languages-2016) language.
