@@ -27,7 +27,7 @@ Every class will use a Jupyter notebook to show examples and illustrate new synt
 - Basic programming knowledge or concurrently taking a programming class
     - Or quickly complete the Codecademy [Python course](https://www.codecademy.com/learn/python). 
 - Accounts for the following wesbites:
-	- [DataCamp](https://www.datacamp.com/)
+    - [DataCamp](https://www.datacamp.com/)
         - $9.00/month for student version
 	- [Kaggle](https://www.kaggle.com/)
         - Good source of fun datasets
@@ -40,13 +40,14 @@ Every class will use a Jupyter notebook to show examples and illustrate new synt
 	- Download and install [Python](https://www.python.org/downloads/), [PyCharm](https://www.jetbrains.com/pycharm/download/), and [Anaconda](https://www.continuum.io/downloads)
 		- Download the right versions for **your OS**
         - If you get stuck just Google *"How to install ____".* Get good at phrasing your questions effectively.
-        - Feel free to use a different editor. I use PyCharm and it works with the Jupyter notebooks. If you decide to use a different editor it's your responsability to make sure it can edit Jupyter notebooks.
-	- Make GitHub, DataCamp, and Kaggle accounts
+        - Feel free to use a different editor.
 	- Clone the [tutorial repository](https://github.com/JasonFreeberg/PythonTutorials) to your computer
         - Here's [a guide](https://www.youtube.com/watch?v=0fKg7e37bQE) to basic GitHub commands, I suggest against using the GUI.
 
 #### Week 2: “Getting Started with Python”
+- First tutorial session
 - Get everyone set up with Python, PyCharm, Anaconda
+- Using Jupyter Notebooks [in browser](http://jupyter.readthedocs.io/en/latest/running.html#running)
 - Using [pip](https://packaging.python.org/installing/) and [conda](http://conda.pydata.org/docs/using/pkgs.html) to install modules
 - Python Basics: syntax, objects, classes, modules, and data structures
 - Homework:
