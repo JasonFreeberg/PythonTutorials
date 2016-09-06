@@ -71,7 +71,7 @@ Every class will use a Jupyter notebook to show examples and illustrate new synt
 - Recent industry trends
     - Distributed computing overtakes single supercomputers
     - Common languages
-- Examples with scikit learn
+- Examples with sci kit learn
 - Homework:
     - …
 
