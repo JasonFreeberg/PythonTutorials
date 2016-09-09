@@ -63,7 +63,7 @@ Every class will use a Jupyter notebook to show examples and illustrate new synt
 - Homework:
 	- …
 
-#### Week 5: “Basics of Prediction”
+#### Week 4: “Basics of Prediction”
 - Machine learning at a high level
 - Types of machine learning
     - [Supervised](https://en.wikipedia.org/wiki/Supervised_learning) / [Unsupervised](https://en.wikipedia.org/wiki/Unsupervised_learning)
@@ -75,7 +75,7 @@ Every class will use a Jupyter notebook to show examples and illustrate new synt
 - Homework:
     - …
 
-#### Week 4: “Feature Engineering”
+#### Week 5: “Feature Engineering”
 - Creating new columns
     - [Standardization](https://www.biomedware.com/files/documentation/Preparing_data/Why_standardize_variables.htm)
     - [Variable interaction](https://en.wikipedia.org/wiki/Interaction_(statistics))
