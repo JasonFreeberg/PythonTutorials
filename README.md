@@ -52,7 +52,7 @@ Every class will use a Jupyter notebook to show examples and illustrate new synt
 - Python Basics: syntax, objects, classes, modules, and data structures
 - Homework:
     - *Optional:* [Codecademy course](https://www.codecademy.com/learn/python)
-    - ...
+    - DataCamp: **Intro** to Python for DS: **Classes 1, 2, 3**
 
 #### Week 3: “Tabular Data, Your New Best Friend”
 - Practice loading a .csv file
@@ -61,7 +61,8 @@ Every class will use a Jupyter notebook to show examples and illustrate new synt
     - And *wrong* values
 - [Conditional selection](http://pandas.pydata.org/pandas-docs/stable/indexing.html)
 - Homework:
-	- …
+    - DataCamp: **Intro** to Python for DS: **Class 4**
+    - DataCamp: **Intermediate** Python for DS: **Class 1**
 
 #### Week 4: “Basics of Prediction”
 - Machine learning at a high level
@@ -73,7 +74,7 @@ Every class will use a Jupyter notebook to show examples and illustrate new synt
     - Common languages
 - Examples with sci kit learn
 - Homework:
-    - …
+    - DataCamp: **Intermediate** Python for DS: **Classes 2, 3**
 
 #### Week 5: “Feature Engineering”
 - Creating new columns
@@ -83,7 +84,7 @@ Every class will use a Jupyter notebook to show examples and illustrate new synt
 - [Lambda functions and mapping](http://www.python-course.eu/lambda.php)
 - Fill out course evaluations
 - Homework:
-	- …
+    - DataCamp: **Intermediate** Python for DS: **Classes 4, 5**
 
 #### Weeks 6 to 9: Begin Mini Projects
 - Introduction to the data and possible project directions
